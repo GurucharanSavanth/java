@@ -1,0 +1,15 @@
+2022-01-01,New York,32
+2022-01-01,Los Angeles,55
+2022-01-02,New York,30
+2022-01-02,Los Angeles,58
+2022-01-03,New York,35
+2022-01-03,Los Angeles,60
+2022-01-04,New York,28
+2022-01-04,Los Angeles,56
+2022-01-05,New York,33
+2022-01-05,Los Angeles,61
+2022-01-06,New York,29
+2022-01-06,Los Angeles,59
+2022-01-07,New York,36
+2022-01-07,Los Angeles,57
+
